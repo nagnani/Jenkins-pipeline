@@ -1,7 +1,7 @@
 node {
 
      stage('code clone') {
-        git 'https://github.com/nagnani/Jenkins-pipeline.git'
+        git 'https://github.com/nagnani/ks.git'
     } 
     
       stage('code clean') {
